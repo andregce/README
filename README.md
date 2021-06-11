@@ -11,7 +11,7 @@ Well not really. Actually [far from it](https://en.wikipedia.org/wiki/Peopleware
 
 Perhaps the most important tip on this README, so I guess we can start here. We are all human. Duh. But I take that to heart. <u>I am a very empathic person</u>.
 
-Not that I value that trait over others, that's just how I am. That means I find it easy to connect with people. But also means I can be emotionaly sensitive: bad energy from others can disrupt my mood and focus.
+Not that I value that trait over others, that's just how I am. That means I find it easy to connect with people. But also means I can be emotionally sensitive: bad energy from others can disrupt my mood and focus (please be mindful of that).
 
 For you the takeaway is that I'm always available as a human. I understand life comes before work. I'm a good listener. Feel free to share when you want to vent, or ask for space when you need it. Which segways nicely to my next tip.
 
@@ -37,6 +37,6 @@ This does not mean I like my peers to stick to their areas of expertise only (se
 
 And I think it is sad people use that term to describe people who appreciates neatness and order. I do not have OCD. But working with me you might find that I really appreciate an organized workspace.
 
-Tabs or spaces, it does not matter: what matters is consistancy. Linters are great. Take the extra time for polishing. Leave things better than you find them. The `Broken Windows Theory` might not be great under [criminology context](https://en.wikipedia.org/wiki/Broken_windows_theory#Criticism) but it certainly applies well in the work environment. Let's all be reponsible for fixing our broken windows.
+Tabs or spaces, it does not matter: what matters is consistency. Linters are great. Take the extra time for polishing. Leave things better than you find them. The `Broken Windows Theory` might not be great under [criminology context](https://en.wikipedia.org/wiki/Broken_windows_theory#Criticism) but it certainly applies well in the work environment. Let's all be responsible for fixing our broken windows.
 
 ## Small talk carries context
